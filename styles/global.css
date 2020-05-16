@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+html,body{
+    padding: 0;
+    margin: 0;
+    font-family: Inter,sans-serif;
+    line-height: 1.65;
+    font-weight: 16px;
+    background-color: beige;
+}
+
+a{
+    color:#0070f3;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
