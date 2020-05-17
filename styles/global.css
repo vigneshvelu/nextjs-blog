@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 
+
 html,body{
     padding: 0;
     margin: 0;
@@ -9,6 +10,7 @@ html,body{
     line-height: 1.65;
     font-weight: 16px;
     background-color: beige;
+    
 }
 
 a{

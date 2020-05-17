@@ -1,6 +1,6 @@
 ---
-Title: GDS and the gender pay gap
-Date: 6 March 2020
+title: 'GDS and the gender pay gap'
+date: '2020-05-10'
 ---
 
 The gender pay gap is the difference in average hourly pay between men and women. All organisations with 250 or more employees have been legally required to [report their gender pay gap annually] since 2017.

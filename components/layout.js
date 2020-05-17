@@ -11,6 +11,7 @@ export default function Layout({ children, home}) {
         <div className={styles.container}>
             <Head>
                 <link rel="icon" href="/favicon.ico" />
+                <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;600;700;800&display=swap" rel="stylesheet" /> 
                 <meta
                     name="Description"
                     content = "Learn how to build a personal website using Next.js"
